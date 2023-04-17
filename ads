@@ -1,0 +1,1 @@
+com.jacubdevlopers_app4.tachiyomimangaapptutorial
